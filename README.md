@@ -219,6 +219,15 @@ docs/evidencias.md
 
 Incluyen fork del repositorio, Kafka con Docker, topic creado, productor, consumidor, datos RAW en MongoDB Atlas y documentos KPI.
 
+## Memoria y manual
+
+La memoria final y el manual desde cero estan en:
+
+```text
+docs/memoria_manual_proyecto.md
+docs/memoria_manual_proyecto.pdf
+```
+
 ## Entrega
 
 Comandos finales:
